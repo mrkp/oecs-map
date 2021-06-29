@@ -1,14 +1,16 @@
 import React, { useState, useEffect } from "react";
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
-import * as parkDate from "./data/skateboard-parks.json";
+import * as parkDate from "./data/ambassadors.json";
+import ReactPlayer from 'react-player'
 
 export default function App() {
   const [viewport, setViewport] = useState({
-    latitude: 45.4211,
-    longitude: -75.6903,
+    latitude: 32.010584,
+    longitude: 10.698416,
     width: "100vw",
     height: "100vh",
-    zoom: 10
+    zoom: 2,
+
   });
   const [selectedPark, setSelectedPark] = useState(null);
 
@@ -26,20 +28,23 @@ export default function App() {
   }, []);
 
   return (
-    <div>
+    <div style={{flex:1 }}>
       <ReactMapGL
         {...viewport}
         mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
-        mapStyle="mapbox://styles/leighhalliday/cjufmjn1r2kic1fl9wxg7u1l4"
+        mapStyle="mapbox://styles/markpereir/cjxwtz9sa6mb51crpxavvnvr5"
         onViewportChange={viewport => {
           setViewport(viewport);
         }}
       >
-        {parkDate.features.map(park => (
+        {/*<div style={{position: "absolute", top: 0, left: 0, margin: 20, width: '20%', height: '100%', backgroundColor: 'white', borderRadius: 20}}></div>*/}
+
+        {parkDate.features.map((park, i) => (
           <Marker
-            key={park.properties.PARK_ID}
+            key={i}
             latitude={park.geometry.coordinates[1]}
             longitude={park.geometry.coordinates[0]}
+
           >
             <button
               className="marker-btn"
@@ -48,7 +53,7 @@ export default function App() {
                 setSelectedPark(park);
               }}
             >
-              <img src="/skateboarding.svg" alt="Skate Park Icon" />
+              <img src={require(`${park.properties.PICTURE}`)} style={{resizeMode: 'contain', width: 100, height: 100}} alt="Skate Park Icon" />
             </button>
           </Marker>
         ))}
@@ -62,8 +67,19 @@ export default function App() {
             }}
           >
             <div>
+              <ReactPlayer
+                  url={require(`${selectedPark.properties.PICTURE}`)}
+                  config={{
+                    youtube: {
+                      playerVars: { showinfo: 1 }
+                    },
+                    facebook: {
+                      appId: '12345'
+                    }
+                  }}
+              />
               <h2>{selectedPark.properties.NAME}</h2>
-              <p>{selectedPark.properties.DESCRIPTIO}</p>
+              <p>{selectedPark.properties.DESCRIPTION}</p>
             </div>
           </Popup>
         ) : null}

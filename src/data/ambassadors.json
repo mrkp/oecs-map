@@ -1,0 +1,427 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Attainea Toulon",
+        "DESCRIPTION": "🇩🇲 Dominica Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Attainea+Toulon+-+Welcome.jpg",
+        "VIDEO": "./videos/attainea-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.3710, 15.4150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "🇹🇹 Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mark+Pereira+-+Welcome.jpg",
+        "VIDEO": "./videos/mark-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.648581, 10.701598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Tulsie Thakore",
+        "DESCRIPTION": "🇰🇪 OECS Kenya Representative",
+        "TAGS": ["healthcare", "medicine", "research", "wildlifeconservation", "habitatpreservation", "ecosystemequality", "education", "development", "innovation", "selfempowerment", "resiliency"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Tulsi+Thakore+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.9062, 0.0236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Acha Emmanuel",
+        "DESCRIPTION": "🇳🇬 Nigerian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Acha+Emmanuel+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.025175, 9.266838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Archana Singh",
+        "DESCRIPTION": "🇮🇳 Indian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Archana+Singh+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.996864, 22.018700]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Aria Laidlow",
+        "DESCRIPTION": "🇻🇨 St Vincent and The grenadines Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Aria+Laidlow+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.189372, 13.242948]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Boluwatife Fanibuyan",
+        "DESCRIPTION": "🇳🇬 Nigerian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Boluwatife+Fanibuyan+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Cameron Philbert",
+        "DESCRIPTION": "🇬🇩 Grenadian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cameron+Philbert+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -61.690895, 12.114277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Cornelia Walters Jones",
+        "DESCRIPTION": "🇯🇲 Jamaican Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cornelia+John+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Darnel Francois",
+        "DESCRIPTION": "🇹🇹 Trinidadian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Dernel+Francois+-+welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.049937, 10.169611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Gabrielle Gay",
+        "DESCRIPTION": "🇧🇧 Barbadian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gabrielle+Gay+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.546939, 13.171425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Gloria Young",
+        "DESCRIPTION": "🇵🇦 Panamanian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gloria+Young+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.526321, 9.180256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Joanne Walters",
+        "DESCRIPTION": "🇻🇮 US Virgin Islands Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Joanne+Walters+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.767698, 17.736003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Jonathan+La+Crette+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Juliet+Archibong+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Keagan+Mohammed+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Kerri-Ann+Blades+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Lynessa+Griffith+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Masum+Rana+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mechelle+Mcdonald+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Moureeze+Franklyn+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Rehanna+Warren+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Saadiqa+Bishop+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Sabrina+Ajax+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Samantha+Sheoprashad+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Truvhana+Richard+-+Welcome.jpg",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    }
+  ]
+}
