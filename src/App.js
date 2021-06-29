@@ -3,6 +3,8 @@ import ReactMapGL, { Marker, Popup } from "react-map-gl";
 import * as parkDate from "./data/ambassadors.json";
 import ReactPlayer from 'react-player'
 
+const sdgs = ["./sdgs/1-no-poverty.svg", "./sdgs/2-zero-hunger.svg", "./sdgs/3-good-health-and-well-being.svg", "./sdgs/4-quality-education.svg", "./sdgs/5-gender-equality.svg", "./sdgs/6-clean-water-and-sanitation.svg", "./sdgs/7-affordable-and-clean-energy.svg", "./sdgs/8-decent-work-and-economic-growth.svg", "./sdgs/9-industry-innovation-and-infrastructure.svg", "./sdgs/10-reduced-inequalities.svg", "./sdgs/11-sustainable-cities-and-communities.svg", "./sdgs/12-responsible-consumption-and-production.svg", "./sdgs/13-climate-action.svg", "./sdgs/14-life-below-water.svg", "./sdgs/15-life-on-land.svg", "./sdgs/16-peace-justice-and-strong-institutions.svg", "./sdgs/17-partnerships-for-the-goals.svg"];
+
 export default function App() {
   const [viewport, setViewport] = useState({
     latitude: 32.010584,
@@ -82,10 +84,21 @@ export default function App() {
               />
               <h2>{selectedPark.properties.NAME}</h2>
               <p>{selectedPark.properties.DESCRIPTION}</p>
-              <div style={{width: '100%', flexDirection: 'row', display: 'flex'}}>
+              <div style={{width: '100%', flexDirection: 'row', display: 'flex', flexWrap: 'wrap'}}>
                 {selectedPark.properties.TAGS.map((tag, i) => (
-                    <div style={{padding: 8, margin: 10, backgroundColor: '#e5e5e5', borderRadius: 5}}><p style={{fontSize: 15, margin: 0}}>{tag}</p></div>
+                    <div key={i} style={{padding: 8, margin: 10, backgroundColor: '#e5e5e5', borderRadius: 5}}><p style={{fontSize: 15, margin: 0}}>{tag}</p></div>
                 ))}
+
+              </div>
+              <h3>Sustainable Development Goals</h3>
+              <div style={{width: '100%', flexDirection: 'row', display: 'flex', flexWrap: 'wrap'}}>
+                {selectedPark.properties.SDGS.map((tag, i) => {
+                  console.log('tag: ', tag)
+                  console.log('sdg: ', sdgs[tag-1])
+                  return (
+                      <img key={i} src={require(`${sdgs[tag-1]}`)} style={{resizeMode: 'contain', width: 100, height: 100}} alt="Skate Park Icon" />
+                  )
+                })}
 
               </div>
             </div>

@@ -12,6 +12,7 @@
         "NAME": "Acha Emmanuel",
         "DESCRIPTION": "🇳🇬 Nigerian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Acha+Emmanuel+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -28,6 +29,7 @@
         "NAME": "Archana Singh",
         "DESCRIPTION": "🇮🇳 Indian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Archana+Singh+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -43,7 +45,9 @@
         "OECS_MEMBER_ID": 960,
         "NAME": "Aria Laidlow",
         "DESCRIPTION": "🇻🇨 St Vincent and The grenadines Representative",
-        "TAGS": ["education", "coding", "software development"],
+        "TAGS": ["climate change", "disaster risk management", "youth development", "politics", "sustainable development for SIDS", "policy development ", "education", "environmental management", "innovation", "resilience", "women's empowerment"],
+        "SDGS": [13],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Aria+Laidlow+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -53,7 +57,6 @@
         "coordinates": [-61.189372, 13.242948]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -61,6 +64,7 @@
         "NAME": "Boluwatife Fanibuyan",
         "DESCRIPTION": "🇳🇬 Nigerian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Boluwatife+Fanibuyan+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -77,6 +81,7 @@
         "NAME": "Cameron Philbert",
         "DESCRIPTION": "🇬🇩 Grenadian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cameron+Philbert+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -93,6 +98,7 @@
         "NAME": "Cornelia Walters Jones",
         "DESCRIPTION": "🇯🇲 Jamaican Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cornelia+John+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -109,6 +115,7 @@
         "NAME": "Darnel Francois",
         "DESCRIPTION": "🇹🇹 Trinidadian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Dernel+Francois+-+welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -125,6 +132,7 @@
         "NAME": "Gabrielle Gay",
         "DESCRIPTION": "🇧🇧 Barbadian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gabrielle+Gay+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -141,6 +149,7 @@
         "NAME": "Gloria Young",
         "DESCRIPTION": "🇵🇦 Panamanian Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gloria+Young+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -157,6 +166,7 @@
         "NAME": "Joanne Walters",
         "DESCRIPTION": "🇻🇮 US Virgin Islands Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Joanne+Walters+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -173,6 +183,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Jonathan+La+Crette+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -189,6 +200,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Juliet+Archibong+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -205,6 +217,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Keagan+Mohammed+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -221,6 +234,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Kerri-Ann+Blades+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -237,6 +251,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Lynessa+Griffith+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -254,6 +269,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Masum+Rana+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -270,6 +286,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mechelle+Mcdonald+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -286,6 +303,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Moureeze+Franklyn+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -302,6 +320,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Rehanna+Warren+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -318,6 +337,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Saadiqa+Bishop+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -334,6 +354,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Sabrina+Ajax+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -350,6 +371,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Samantha+Sheoprashad+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -366,6 +388,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Truvhana+Richard+-+Welcome.jpg",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
@@ -382,8 +405,9 @@
         "NAME": "Attainea Toulon",
         "DESCRIPTION": "🇩🇲 Dominica Representative",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Attainea+Toulon+-+Welcome.jpg",
-        "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/attainea-oecs.mp4?alt=media&token=a1fbe255-fff9-4861-a601-722714bffae6",
+        "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/attainea-oecs.mp4?alt=media&token=9ec43c5f-27b0-40c7-91d0-e50fcb799f62",
         "PICTURE__1": null
       },
       "geometry": {
@@ -398,6 +422,7 @@
         "NAME": "Mark Pereira",
         "DESCRIPTION": "🇹🇹 Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
+        "SDGS": [1,4,5,8,10,11,15,17],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mark+Pereira+-+Welcome.jpg",
         "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/mark-oecs.mp4?alt=media&token=d5117013-577a-49bb-8416-155d1799bfaf",
         "PICTURE__1": null
@@ -414,6 +439,7 @@
         "NAME": "Tulsie Thakore",
         "DESCRIPTION": "🇰🇪 OECS Kenya Representative",
         "TAGS": ["healthcare", "medicine", "research", "wildlifeconservation", "habitatpreservation", "ecosystemequality", "education", "development", "innovation", "selfempowerment", "resiliency"],
+        "SDGS": [13],
         "PICTURE": "./pictures/2021+SDM+Ambassador+-+Tulsi+Thakore+-+Welcome.jpg",
         "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/tulsi-oecs.mp4?alt=media&token=2124c729-5986-4259-aa19-6ee40605a395",
         "PICTURE__1": null
