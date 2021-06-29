@@ -9,7 +9,7 @@ export default function App() {
     longitude: 10.698416,
     width: "100vw",
     height: "100vh",
-    zoom: 2,
+    zoom: 0,
 
   });
   const [selectedPark, setSelectedPark] = useState(null);
