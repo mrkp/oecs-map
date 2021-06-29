@@ -66,9 +66,10 @@ export default function App() {
               setSelectedPark(null);
             }}
           >
-            <div>
+            <div style={{maxWidth: 400}}>
               <ReactPlayer
-                  url={require(`${selectedPark.properties.PICTURE}`)}
+                  url={selectedPark.properties.VIDEO}
+                  playing={true}
                   config={{
                     youtube: {
                       playerVars: { showinfo: 1 }
@@ -77,9 +78,16 @@ export default function App() {
                       appId: '12345'
                     }
                   }}
+                  width={'100%'}
               />
               <h2>{selectedPark.properties.NAME}</h2>
               <p>{selectedPark.properties.DESCRIPTION}</p>
+              <div style={{width: '100%', flexDirection: 'row', display: 'flex'}}>
+                {selectedPark.properties.TAGS.map((tag, i) => (
+                    <div style={{padding: 8, margin: 10, backgroundColor: '#e5e5e5', borderRadius: 5}}><p style={{fontSize: 15, margin: 0}}>{tag}</p></div>
+                ))}
+
+              </div>
             </div>
           </Popup>
         ) : null}

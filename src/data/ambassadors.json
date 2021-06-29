@@ -9,54 +9,6 @@
       "type": "Feature",
       "properties": {
         "OECS_MEMBER_ID": 960,
-        "NAME": "Attainea Toulon",
-        "DESCRIPTION": "🇩🇲 Dominica Representative",
-        "TAGS": ["education", "coding", "software development"],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Attainea+Toulon+-+Welcome.jpg",
-        "VIDEO": "./videos/attainea-oecs.mp4",
-        "PICTURE__1": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-61.3710, 15.4150]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OECS_MEMBER_ID": 960,
-        "NAME": "Mark Pereira",
-        "DESCRIPTION": "🇹🇹 Co-founder, Zed Labs",
-        "TAGS": ["education", "coding", "software development"],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mark+Pereira+-+Welcome.jpg",
-        "VIDEO": "./videos/mark-oecs.mp4",
-        "PICTURE__1": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-61.648581, 10.701598]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OECS_MEMBER_ID": 960,
-        "NAME": "Tulsie Thakore",
-        "DESCRIPTION": "🇰🇪 OECS Kenya Representative",
-        "TAGS": ["healthcare", "medicine", "research", "wildlifeconservation", "habitatpreservation", "ecosystemequality", "education", "development", "innovation", "selfempowerment", "resiliency"],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Tulsi+Thakore+-+Welcome.jpg",
-        "VIDEO": "./videos/tulsi-oecs.mp4",
-        "PICTURE__1": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.9062, 0.0236]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OECS_MEMBER_ID": 960,
         "NAME": "Acha Emmanuel",
         "DESCRIPTION": "🇳🇬 Nigerian Representative",
         "TAGS": ["education", "coding", "software development"],
@@ -421,6 +373,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Attainea Toulon",
+        "DESCRIPTION": "🇩🇲 Dominica Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Attainea+Toulon+-+Welcome.jpg",
+        "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/attainea-oecs.mp4?alt=media&token=a1fbe255-fff9-4861-a601-722714bffae6",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.3710, 15.4150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Mark Pereira",
+        "DESCRIPTION": "🇹🇹 Co-founder, Zed Labs",
+        "TAGS": ["education", "coding", "software development"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mark+Pereira+-+Welcome.jpg",
+        "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/mark-oecs.mp4?alt=media&token=d5117013-577a-49bb-8416-155d1799bfaf",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.648581, 10.701598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Tulsie Thakore",
+        "DESCRIPTION": "🇰🇪 OECS Kenya Representative",
+        "TAGS": ["healthcare", "medicine", "research", "wildlifeconservation", "habitatpreservation", "ecosystemequality", "education", "development", "innovation", "selfempowerment", "resiliency"],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Tulsi+Thakore+-+Welcome.jpg",
+        "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/tulsi-oecs.mp4?alt=media&token=2124c729-5986-4259-aa19-6ee40605a395",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.9062, 0.0236]
       }
     }
   ]
