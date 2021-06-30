@@ -107,7 +107,7 @@ export default function App() {
                         },
                         facebook: {
                           appId: '12345'
-                        }git 
+                        }
                       }}
                       width={'100%'}
                   />
