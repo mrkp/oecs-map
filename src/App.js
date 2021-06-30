@@ -46,9 +46,6 @@ export default function App() {
           setViewport(viewport);
         }}
       >
-
-        {/*<div style={{position: "absolute", top: 0, left: 0, margin: 20, width: '20%', height: '100%', backgroundColor: 'white', borderRadius: 20}}></div>*/}
-
         {parkDate.features.map((park, i) => (
           <Marker
             key={i}
@@ -68,17 +65,6 @@ export default function App() {
           </Marker>
         ))}
 
-        {/*{selectedPark ? (*/}
-        {/*  <Popup*/}
-        {/*    latitude={selectedPark.geometry.coordinates[1]}*/}
-        {/*    longitude={selectedPark.geometry.coordinates[0]}*/}
-        {/*    onClose={() => {*/}
-        {/*      setSelectedPark(null);*/}
-        {/*    }}*/}
-        {/*  >*/}
-
-        {/*  </Popup>*/}
-        {/*) : null}*/}
         <SwipeableBottomSheet
             overflowHeight={64}
             open={open}
