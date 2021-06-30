@@ -13,7 +13,7 @@
         "DESCRIPTION": "🇳🇬 Nigerian Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Acha+Emmanuel+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Acha+Emmanuel+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -30,7 +30,7 @@
         "DESCRIPTION": "🇮🇳 Indian Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Archana+Singh+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Archana+Singh+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -48,7 +48,7 @@
         "TAGS": ["climate change", "disaster risk management", "youth development", "politics", "sustainable development for SIDS", "policy development ", "education", "environmental management", "innovation", "resilience", "women's empowerment"],
         "SDGS": [13],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Aria+Laidlow+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Aria+Laidlow+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -65,7 +65,7 @@
         "DESCRIPTION": "🇳🇬 Nigerian Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Boluwatife+Fanibuyan+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Boluwatife+Fanibuyan+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -82,7 +82,7 @@
         "DESCRIPTION": "🇬🇩 Grenadian Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cameron+Philbert+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cameron+Philbert+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -99,7 +99,7 @@
         "DESCRIPTION": "🇯🇲 Jamaican Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cornelia+John+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Cornelia+John+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -116,7 +116,7 @@
         "DESCRIPTION": "🇹🇹 Trinidadian Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Dernel+Francois+-+welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Dernel+Francois+-+welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -129,28 +129,11 @@
       "type": "Feature",
       "properties": {
         "OECS_MEMBER_ID": 960,
-        "NAME": "Gabrielle Gay",
-        "DESCRIPTION": "🇧🇧 Barbadian Representative",
-        "TAGS": ["education", "coding", "software development"],
-        "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gabrielle+Gay+-+Welcome.jpg",
-        "VIDEO": "./videos/tulsi-oecs.mp4",
-        "PICTURE__1": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-59.546939, 13.171425]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OECS_MEMBER_ID": 960,
         "NAME": "Gloria Young",
         "DESCRIPTION": "🇵🇦 Panamanian Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gloria+Young+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gloria+Young+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -167,7 +150,7 @@
         "DESCRIPTION": "🇻🇮 US Virgin Islands Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Joanne+Walters+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Joanne+Walters+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -184,7 +167,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Jonathan+La+Crette+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Jonathan+La+Crette+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -201,7 +184,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Juliet+Archibong+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Juliet+Archibong+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -218,7 +201,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Keagan+Mohammed+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Keagan+Mohammed+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -235,7 +218,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Kerri-Ann+Blades+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Kerri-Ann+Blades+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -252,25 +235,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Lynessa+Griffith+-+Welcome.jpg",
-        "VIDEO": "./videos/tulsi-oecs.mp4",
-        "PICTURE__1": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.3372987731628, 45.383321536272049]
-      }
-    },
-
-    {
-      "type": "Feature",
-      "properties": {
-        "OECS_MEMBER_ID": 960,
-        "NAME": "Mark Pereira",
-        "DESCRIPTION": "Co-founder, Zed Labs",
-        "TAGS": ["education", "coding", "software development"],
-        "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Masum+Rana+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Lynessa+Griffith+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -287,7 +252,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mechelle+Mcdonald+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mechelle+Mcdonald+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -304,7 +269,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Moureeze+Franklyn+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Moureeze+Franklyn+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -321,7 +286,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Rehanna+Warren+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Rehanna+Warren+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -338,7 +303,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Saadiqa+Bishop+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Saadiqa+Bishop+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -355,7 +320,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Sabrina+Ajax+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Sabrina+Ajax+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -372,7 +337,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Samantha+Sheoprashad+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Samantha+Sheoprashad+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -389,7 +354,7 @@
         "DESCRIPTION": "Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Truvhana+Richard+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Truvhana+Richard+-+Welcome.png",
         "VIDEO": "./videos/tulsi-oecs.mp4",
         "PICTURE__1": null
       },
@@ -406,7 +371,7 @@
         "DESCRIPTION": "🇩🇲 Dominica Representative",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Attainea+Toulon+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Attainea+Toulon+-+Welcome.png",
         "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/attainea-oecs.mp4?alt=media&token=9ec43c5f-27b0-40c7-91d0-e50fcb799f62",
         "PICTURE__1": null
       },
@@ -423,7 +388,7 @@
         "DESCRIPTION": "🇹🇹 Co-founder, Zed Labs",
         "TAGS": ["education", "coding", "software development"],
         "SDGS": [1,4,5,8,10,11,15,17],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mark+Pereira+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Mark+Pereira+-+Welcome.png",
         "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/mark-oecs.mp4?alt=media&token=d5117013-577a-49bb-8416-155d1799bfaf",
         "PICTURE__1": null
       },
@@ -440,13 +405,47 @@
         "DESCRIPTION": "🇰🇪 OECS Kenya Representative",
         "TAGS": ["healthcare", "medicine", "research", "wildlifeconservation", "habitatpreservation", "ecosystemequality", "education", "development", "innovation", "selfempowerment", "resiliency"],
         "SDGS": [13],
-        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Tulsi+Thakore+-+Welcome.jpg",
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Tulsi+Thakore+-+Welcome.png",
         "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/tulsi-oecs.mp4?alt=media&token=2124c729-5986-4259-aa19-6ee40605a395",
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
         "coordinates": [37.9062, 0.0236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Masum Rana",
+        "DESCRIPTION": "🇧🇩 OECS Bangladesh Representative",
+        "TAGS": ["Social Development", "Youth Development", "Digital Communications", "Digital Marketing", "Creative", "Visual Communications", "Travel", "Content Creation", "Mental Health", "Social Awareness"],
+        "SDGS": [1, 3, 4, 6, 8, 9, 13,15, 17],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Masum+Rana+-+Welcome.png",
+        "VIDEO": "./videos/tulsi-oecs.mp4",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.4125, 23.8103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OECS_MEMBER_ID": 960,
+        "NAME": "Gabrielle Gay",
+        "DESCRIPTION": "🇧🇧 Barbadian Representative",
+        "TAGS": ["education", "coding", "software development"],
+        "SDGS": [13],
+        "PICTURE": "./pictures/2021+SDM+Ambassador+-+Gabrielle+Gay+-+Welcome.png",
+        "VIDEO": "https://firebasestorage.googleapis.com/v0/b/wambackend.appspot.com/o/gabrielle-gay.mp4?alt=media&token=6deb1117-5f89-476b-8fdc-6497192a3802",
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.546939, 13.171425]
       }
     }
   ]
