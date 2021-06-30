@@ -94,7 +94,7 @@ export default function App() {
                     <button onClick={e => {
                       setSelectedPark(null);
                       setOpen(false)
-                    }} style={{display: 'flex', border: 'none', backgroundColor: '#ececec', width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center'}}>
+                    }} style={{position: 'absolute', top: 17, right: 17, display: 'flex', border: 'none', backgroundColor: '#ececec', width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center'}}>
                       <h1>x</h1>
                     </button>
                   </div>
