@@ -62,6 +62,7 @@ export default function App() {
         ))}
 
         <SwipeableBottomSheet
+            overflowHeight={64}
             open={open}
             fullScreen={false}
             overlay={false}
@@ -71,7 +72,6 @@ export default function App() {
             swipeableViewsProps={{containerStyle: {borderTopLeftRadius: 40, zIndex: 999, borderTopRightRadius: 40}}}
             onTransitionEnd={() => console.log('hello')}
         >
-
             {selectedPark ? (
                 <div style={{maxWidth: 500, borderRadius: 45, padding: 20}}>
                   <div style={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'flex-end'}}>
