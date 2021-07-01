@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ReactMapGL, { Marker, Popup } from "react-map-gl";
+import ReactMapGL, { Marker } from "react-map-gl";
 import * as parkDate from "./data/ambassadors.json";
 import ReactPlayer from 'react-player'
 import SwipeableBottomSheet from 'react-swipeable-bottom-sheet';
@@ -17,10 +17,6 @@ export default function App() {
   });
   const [selectedPark, setSelectedPark] = useState(null);
   const [open, setOpen] = useState(false)
-
-  function onDismiss() {
-    setOpen(false)
-  }
 
   useEffect(() => {
     const listener = e => {
@@ -60,7 +56,7 @@ export default function App() {
                 setOpen(true)
               }}
             >
-              <img src={require(`${park.properties.PICTURE}`)} style={{resizeMode: 'contain', width: 100, height: 100}} alt="Ambassador picture" />
+              <img src={require(`${park.properties.PICTURE}`)} style={{resizeMode: 'contain', width: 100, height: 100}} alt="Ambassador" />
             </button>
           </Marker>
         ))}
@@ -111,7 +107,7 @@ export default function App() {
                       console.log('tag: ', tag)
                       console.log('sdg: ', sdgs[tag-1])
                       return (
-                          <img key={i} src={require(`${sdgs[tag-1]}`)} style={{resizeMode: 'contain', width: 100, height: 100}} alt="sdg image" />
+                          <img key={i} src={require(`${sdgs[tag-1]}`)} style={{resizeMode: 'contain', width: 100, height: 100}} alt="sdg" />
                       )
                     })}
                   </div>
