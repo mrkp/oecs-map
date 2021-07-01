@@ -62,12 +62,14 @@ export default function App() {
         ))}
 
         <SwipeableBottomSheet
-            overflowHeight={64}
             open={open}
             fullScreen={false}
-            style={{width: '100%', maxWidth: 500, borderRadius: 40}}
+            overlay={false}
+            style={{width: '100%', maxWidth: 500, borderRadius: 40, zIndex: 999, borderTopLeftRadius: 40, borderTopRightRadius: 40}}
             overlayStyle={{}}
-            bodyStyle={{ borderTopLeftRadius: 40, borderTopRightRadius: 40}}
+            bodyStyle={{ borderTopLeftRadius: 40, zIndex: 999, borderTopRightRadius: 40}}
+            swipeableViewsProps={{containerStyle: {borderTopLeftRadius: 40, zIndex: 999, borderTopRightRadius: 40}}}
+            onTransitionEnd={() => console.log('hello')}
         >
 
             {selectedPark ? (
@@ -75,7 +77,6 @@ export default function App() {
                   <div style={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'flex-end'}}>
                     <button
                       onClick={e => {
-                        console.log('hello')
                       setSelectedPark(null);
                       setOpen(false)
                     }} style={{position: 'absolute', top: 17, right: 17, display: 'flex', zIndex: 999, border: 'none', backgroundColor: '#ececec', width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center'}}>
@@ -114,7 +115,6 @@ export default function App() {
                     })}
                   </div>
                 </div>) : null}
-
         </SwipeableBottomSheet>
       </ReactMapGL>
     </div>
