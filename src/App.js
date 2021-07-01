@@ -69,14 +69,16 @@ export default function App() {
             overlayStyle={{}}
             bodyStyle={{ borderTopLeftRadius: 40, borderTopRightRadius: 40}}
         >
-          <>
+
             {selectedPark ? (
                 <div style={{maxWidth: 500, borderRadius: 45, padding: 20}}>
                   <div style={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'flex-end'}}>
-                    <button onClick={e => {
+                    <button
+                      onClick={e => {
+                        console.log('hello')
                       setSelectedPark(null);
                       setOpen(false)
-                    }} style={{position: 'absolute', top: 17, right: 17, display: 'flex', border: 'none', backgroundColor: '#ececec', width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center'}}>
+                    }} style={{position: 'absolute', top: 17, right: 17, display: 'flex', zIndex: 999, border: 'none', backgroundColor: '#ececec', width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center'}}>
                       <h1>x</h1>
                     </button>
                   </div>
@@ -112,7 +114,7 @@ export default function App() {
                     })}
                   </div>
                 </div>) : null}
-          </>
+
         </SwipeableBottomSheet>
       </ReactMapGL>
     </div>
